@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ojaswini
 
-💻 Aspiring Full Stack Developer | MERN Stack Enthusiast  
+💻 Aspiring Full Stack Web Developer 
 🚀 Passionate about building responsive and scalable web applications  
 📍 India  
 
@@ -41,6 +41,6 @@
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: (add your linkedin link)  
-🌐 Portfolio: (add your portfolio link)  
-📧 Email: (your email)
+💼 LinkedIn: https://www.linkedin.com/in/ojaswini-volukula-3ab065327 
+🌐 Portfolio: https://cinematic-showcase-lh3544n97-ojaswinivolukula-2246s-projects.vercel.app
+📧 Email: ojaswini.volukula@gmail.com
