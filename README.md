@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Ojaswini
 
-<!--
-**ojaswinivolukula-code/ojaswinivolukula-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer | MERN Stack Enthusiast  
+🚀 Passionate about building responsive and scalable web applications  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🌱 Currently improving my React & Backend development skills  
+💡 Interested in problem-solving and real-world projects  
+🤝 Open to internship and collaborative opportunities  
+⚡ Love exploring UI design and clean code practices  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+- Tailwind CSS  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+
+### 🛢️ Database
+- Supabase 
+
+### 🧰 Tools
+- Git  
+- GitHub  
+- Postman  
+- VS Code  
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: (add your linkedin link)  
+🌐 Portfolio: (add your portfolio link)  
+📧 Email: (your email)
